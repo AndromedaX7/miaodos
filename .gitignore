@@ -1,0 +1,5 @@
+*.img
+*.o
+*.sym
+boot/bootsect
+
