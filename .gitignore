@@ -2,4 +2,5 @@
 *.o
 *.sym
 boot/bootsect
+boot/demo
 
